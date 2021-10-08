@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jozsefKecskesi
 - 👀 I’m interested in Programming, Data and Data visualizations.
-- 🌱 I’m currently learning Java programming.
+- 🌱 I’m currently deep dive learning Python.
 - 💞️ I’m looking to collaborate on Big Data projects.
 - 📫 How to reach me: https://www.linkedin.com/in/jozsefkecskesi/
 
